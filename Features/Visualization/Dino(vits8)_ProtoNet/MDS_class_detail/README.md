@@ -1,5 +1,4 @@
-<img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/00.png" width="300" height="300">
-<img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/01.png" width="300" height="300">
+<img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/00.png" width="300" height="300"> <img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/01.png" width="300" height="300">
 <img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/02.png" width="300" height="300">
 <img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/03.png" width="300" height="300">
 <img src="/Features/Visualization/Dino(vits8)_ProtoNet/MDS_class_detail/04.png" width="300" height="300">
